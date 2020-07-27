@@ -20,8 +20,13 @@ this->getServer()->getPluginManager()->registerEvents(this, this);
 }
 public function onCommand(CommandSender $sender, Command $cmd, string $label, array $args) : bool{
 switch($cmd->getName(){
+    case "test":
+        if($sender instanceOf Player){
+            $sender->sendMessage("hello");
+        } else{
 
-
+        }
+    break;
 
 }
 return true;
