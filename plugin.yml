@@ -1,1 +1,8 @@
+name: test1
+main: ChoasCrafter908/Main.php
+api: 3.14.2
+version: 1.0.0
 
+Commands:
+ test:
+  description: test
