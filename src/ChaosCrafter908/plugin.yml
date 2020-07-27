@@ -1,1 +1,9 @@
+name: test
+main: ChaosCrafter908/Main.php
+api: 3.14.2
+version: 0.0.1
 
+Commands:
+ test:
+  description: test
+  
