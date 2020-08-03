@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ChaosCrafter908/test1
+build-by-default: true
+branches:
+- master
+projects:
+  test1:
+    path: ""
+...
