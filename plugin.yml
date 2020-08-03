@@ -1,5 +1,5 @@
 name: test1
-main: src\ChoasCrafter908\Main.php
+main: src/ChoasCrafter908/Main.php
 api: 3.14.2
 version: 1.0.0
 
