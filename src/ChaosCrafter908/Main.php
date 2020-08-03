@@ -22,7 +22,7 @@ public function onCommand(CommandSender $sender, Command $cmd, string $label, ar
 switch($cmd->getName(){
     case "test":
         if($sender instanceOf Player){
-            $sender->sendMessage("hello");
+            $sender->sendMessage("§l§cHello world");
         } else{
 
         }
